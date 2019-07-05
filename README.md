@@ -1,5 +1,4 @@
 # Android Basics Nanodegree by Google
-Android Basics Projects
 
 ## Project 1: [Build a Single Screen App](https://github.com/MostafaNafie/single-screen)
 ### Design and implement a simple app that displays information about a small business.
