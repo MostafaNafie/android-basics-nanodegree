@@ -21,8 +21,6 @@ The app is a quiz about Egypt.
 <img src="https://www.dropbox.com/s/a2mx1zatesm7njy/%233%20Quiz.png?raw=1" width="290">
 
 
-# Android Basics Nanodegree by Google
-
 ## Project 4: [Musical Structure App](https://github.com/MostafaNafie/musical-structure)
 ### Create the structure of an app to play music for a user and build it out.
 
