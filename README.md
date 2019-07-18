@@ -8,6 +8,13 @@ Credential ID: F9GDCGFK
     <img align="center" src="https://www.dropbox.com/s/d4kl2unf0u0e11l/Certificate.jpg?raw=1" width="700">
 </div>
 
+___
+
+- Developed 6 apps in Java, XML and SQL.
+- Using Activities, Fragments, Adapters, RecyclerViews, ConstraintLayouts, Loaders, JSON parsing, RESTful APIs, Content Providers and SQLite Databases.
+- Followed Android Style Conventions and Guidelines, Clean Code and OOP.
+- Tools like Android Studio, Gradle, Git and Github.
+- As well as 3rd party libraries like ButterKnife.
 
 ## Project 1: [Build a Single Screen App](https://github.com/MostafaNafie/single-screen)
 ### Design and implement a simple app that displays information about a small business.
