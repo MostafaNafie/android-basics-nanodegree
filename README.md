@@ -21,7 +21,7 @@ ___
 The app displays information about me as a freelancer. 
 
 <div align="center">
-  <img src="https://www.dropbox.com/s/dlao2s84aqhw5lz/%231%20Mostafa%20Nafie.png?raw=1" width="290">
+  <img src="https://user-images.githubusercontent.com/48848704/61653141-e9072e80-acb9-11e9-9e5f-2ceec5d717d5.gif" width="290">
 </div>
 
 
@@ -30,7 +30,7 @@ The app displays information about me as a freelancer.
 The app keeps the score of a football match. 
 
 <div align="center">
-  <img src="https://www.dropbox.com/s/eo3mnx3t9blao65/%232%20Score%20Keeper.png?raw=1" width="290">
+  <img src="https://user-images.githubusercontent.com/48848704/61653257-2f5c8d80-acba-11e9-9f64-a95d6d032164.gif" width="290">
 </div>
 
 
@@ -39,7 +39,7 @@ The app keeps the score of a football match.
 The app is a quiz about Egypt. 
 
 <div align="center">
-  <img src="https://www.dropbox.com/s/a2mx1zatesm7njy/%233%20Quiz.png?raw=1" width="290">
+  <img src="https://user-images.githubusercontent.com/48848704/61653263-31bee780-acba-11e9-9dc8-4326e9668015.gif" width="290">
 </div>
 
 
@@ -47,7 +47,7 @@ The app is a quiz about Egypt.
 ### Create the structure of an app to play music for a user and build it out.
 
 <div align="center">
-  <img src="https://www.dropbox.com/s/wv6uqzv0uwysu62/%234%20Musical%20Structure.png?raw=1" width="290">
+  <img src="https://www.dropbox.com/s/c3p7sol9aqr012o/%234%20Musical%20Structure.gif?raw=1" width="290">
 </div>
 
 
@@ -56,7 +56,7 @@ The app is a quiz about Egypt.
 The app shows some of the attractions of Egypt.
 
 <div align="center">
-  <img src="https://www.dropbox.com/s/tuv9dyule6h4ser/%235%20Tour%20Guide.png?raw=1" width="270">
+  <img src="https://user-images.githubusercontent.com/48848704/61654896-bb23e900-acbd-11e9-8246-2ad61032448c.gif" width="270">
 </div>
 
 
@@ -65,5 +65,5 @@ The app shows some of the attractions of Egypt.
 The app fetch news from The Guardian.
 
 <div align="center">
-  <img src="https://www.dropbox.com/s/tpvm1vc46jvpl0x/%236%20News.png?raw=1" width="270">
+  <img src="https://user-images.githubusercontent.com/48848704/61653274-371c3200-acba-11e9-9180-bd8415bb04f7.gif" width="270">
 </div>
